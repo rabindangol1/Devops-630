@@ -10,4 +10,10 @@ git clone repo_url
 To show log or commit history
 ```bash
 git log
+To add files
+```git add filenae
+```
+or 
+```bash
+git add .
 ```
