@@ -12,7 +12,7 @@ git add .
 ```
 
 ### To check status of git
-'''bash
+```bash
 git status
-'''
+```
 
