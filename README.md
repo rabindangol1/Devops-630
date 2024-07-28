@@ -10,3 +10,8 @@ or
 ```bash
 git add .
 ```
+
+### To add origin by rabin
+```bash
+git remote add origin <origin url>
+```
