@@ -10,3 +10,9 @@ or
 ```bash
 git add .
 ```
+
+### To check status of git
+'''bash
+git status
+'''
+
