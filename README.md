@@ -15,3 +15,8 @@ git add .
 ```bash
 git remote add origin <origin url>
 ```
+
+### To add changes by rabin
+```bash
+edit file by rabin
+```
