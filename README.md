@@ -11,19 +11,28 @@ or
 git add .
 ```
 
-### To view the branch mapping
+
+### To add origin by rabin
 ```bash
-git branch -vv
+git remote add origin <origin url>
 ```
-### To view the gpg key
+
+### To add changes by rabin
 ```bash
-git branch -vv
+edit file by rabin
 ```
-### To view the gpg key Retest
+
+### To add changes by rabin
 ```bash
-git branch -vv
+edit2 file by rabin
 ```
-### To view the gpg key RetestRetest
+
+### To add gpg-key changes by rabin
 ```bash
-git branch -vv
+Add GPG key
+```
+
+### To add gpg-key changes by rabin
+```bash
+Add new GPG key
 ```
