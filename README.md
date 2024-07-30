@@ -24,3 +24,4 @@ git commit -m "message"
 ```bin/bash
 ```
 ###Git config done for gpg sign
+###Test GPG key
