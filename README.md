@@ -25,3 +25,13 @@ edit file by rabin
 ```bash
 edit2 file by rabin
 ```
+
+### To add gpg-key changes by rabin
+```bash
+Add GPG key
+```
+
+### To add gpg-key changes by rabin
+```bash
+Add new GPG key
+```
