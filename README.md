@@ -23,3 +23,4 @@ git commit -m "message"
 ###GPG Key Added
 ```bin/bash
 ```
+###Git config done for gpg sign
