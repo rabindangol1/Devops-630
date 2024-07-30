@@ -11,6 +11,7 @@ or
 git add .
 ```
 
+
 ### To check status of git
 ```bash
 git status
@@ -25,3 +26,19 @@ git commit -m "message"
 ```
 ###Git config done for gpg sign
 ###Test GPG key
+### To view the branch mapping
+```bash
+git branch -vv
+```
+### To view the gpg key
+```bash
+git branch -vv
+```
+### To view the gpg key Retest
+```bash
+git branch -vv
+```
+### To view the gpg key RetestRetest
+```bash
+git branch -vv
+``
