@@ -14,3 +14,12 @@ git add .
 ```bash
 git branch -vv
 ```
+### To view the gpg key
+```bash
+git branch -vv
+```
+### To view the gpg key again
+```bash
+git branch -vv
+```
+
