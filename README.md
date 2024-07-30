@@ -10,6 +10,7 @@ or
 ```bash
 git add .
 ```
+
 ### To view the branch mapping
 ```bash
 git branch -vv
@@ -26,4 +27,3 @@ git branch -vv
 ```bash
 git branch -vv
 ```
-
