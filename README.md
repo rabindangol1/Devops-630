@@ -20,3 +20,8 @@ git remote add origin <origin url>
 ```bash
 edit file by rabin
 ```
+
+### To add changes by rabin
+```bash
+edit2 file by rabin
+```
