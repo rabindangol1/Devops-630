@@ -14,3 +14,4 @@ git add .
 ```bash
 git merge branch_being_merge
 ```
+##Command to configure GPG
