@@ -20,3 +20,6 @@ git status
 ``` git commit -m ""[Dmessage"[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[B[Cbash[D[D[D[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[`bash
 git commit -m "message"
 ```
+###GPG Key Added
+```bin/bash
+```
