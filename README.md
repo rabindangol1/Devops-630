@@ -10,3 +10,20 @@ or
 ```bash
 git add .
 ```
+
+### To view the branch mapping
+```bash
+git branch -vv
+```
+### To view the gpg key
+```bash
+git branch -vv
+```
+### To view the gpg key Retest
+```bash
+git branch -vv
+```
+### To view the gpg key RetestRetest
+```bash
+git branch -vv
+```
