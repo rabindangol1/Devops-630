@@ -18,7 +18,11 @@ git branch -vv
 ```bash
 git branch -vv
 ```
-### To view the gpg key again
+### To view the gpg key Retest
+```bash
+git branch -vv
+```
+### To view the gpg key RetestRetest
 ```bash
 git branch -vv
 ```
