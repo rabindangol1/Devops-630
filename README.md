@@ -1,14 +1,20 @@
-## This is Devops Lab Project
-Setting up git repository
+# Next Markdown Blog
+
+Simple static blog using markdown and Next.js
+
+[DEMO](https://next-markdown-blog-drab.vercel.app/)
+
+## Usage
+
 ```bash
-git init
-```
-To add files
-```git add filenae
-```
-or 
-```bash
-git add .
+# Install dependencies
+npm install
+
+# Run dev server
+npm run dev
+
+# Build for prod and export static website
+npm run build
 ```
 ## to merge the branch
 ```bash
